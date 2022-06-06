@@ -33,4 +33,19 @@ https://cssdeck.com/
 eps editor online  
 https://vectr.com/  
 https://www.iloveimg.com/ 
- 
+
+### Blob Generators
+
+https://www.blobmaker.app/  
+https://shuffle.dev/tools/blob-generator  
+https://www.magicpattern.design/tools/blob-generator  
+https://10015.io/tools/svg-blob-generator
+
+```css
+.blob {
+  border-radius: 69% 31% 30% 67% / 72% 47% 40% 26%;
+  width: 200px;
+  height: 200px
+  background-color: blue;
+}
+```
